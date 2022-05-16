@@ -1,1 +1,1 @@
-"This is file version2 B" 
+"This is file version2 B-git" 
